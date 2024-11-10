@@ -3,3 +3,6 @@ This is the design of websites, computers, e.t.c look and feel with a focus on u
 
 ## Principles of Interface Design
 In the past, users had to adapt to the software that was developed, this shouldn't be the case instead ***the software/system should adapt to the user***.
+Here are some general principles to adhere to for good user design:
+
+**First rule: ** 
