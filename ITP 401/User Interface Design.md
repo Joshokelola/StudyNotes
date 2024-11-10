@@ -18,4 +18,6 @@ Here are some general principles to adhere to for good user design:
 **Support** - good systems support the work that users are trying to accomplish, making it easier, simpler, faster or more fun.
 
 5th rule
-**Context** - good systems are suited to th
+**Context** - good systems are adapted to the conditions and environment of the operational context within which they're deployed.
+
+**Visisb**
