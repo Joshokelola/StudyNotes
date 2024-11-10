@@ -9,4 +9,7 @@ Here are some general principles to adhere to for good user design:
 **Access** - a good system is usable without help or instruction by a user having knowledge and experience in the use of applications generally but no experience with the specific system/application.
 
 2nd rule
-**Efficacy** - good systems don't inter
+**Efficacy** - good systems don't interfere with or disturb the efficient use by a skilled user having reasonable experience with the system.
+
+3rd rule
+**Progression** - 
