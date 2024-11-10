@@ -47,10 +47,11 @@
             "id": "82947c9b88dfbfcb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "ITP 401/World Wide web for information.md",
-                "staged": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "ITP 401/World Wide web for information.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "ITP 401/World Wide web for information.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "ITP 401/World Wide web for information.md"
+          }
         }
       },
       {
@@ -174,9 +179,11 @@
   },
   "active": "82947c9b88dfbfcb",
   "lastOpenFiles": [
-    "ITP 401/World Wide web for information.md",
-    "conflict-files-obsidian-git.md",
     "ITP 401/Terminologies & Concepts on the web.md",
+    "ITP 401/World Wide web for information.md",
+    "Pasted image 20241110164454.png",
+    "/Pasted image 20241110164454.png",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20241110153343.png",
     "Templates/note.md",
     "/ITP 401/World Wide web for information.md"
