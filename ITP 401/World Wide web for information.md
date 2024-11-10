@@ -11,7 +11,6 @@ There's the concept of ***Vendors*** & **Common gateway interface*** to connect 
 
 A 3-tier architecture involves a server, a client and a backend program. The process involves a server receiving a request it doesn't understand and therefore it passes it on to a backend program that takes care of the request. The back-end program executes the request and returns the result in HTML format which the server now understands.
 ![[Pasted image 20241110164454.png]]
-
 Example of 3-tier architecture is: Web based geographic data processing
 
 ## Organisation of documents in a web site
