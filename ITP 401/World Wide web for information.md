@@ -16,4 +16,4 @@ Example of 3-tier architecture is: Web based geographic data processing
 
 ## Organisation of documents in a web site
 - **Web site** - this is a server computer on the internet that contains one or more web presentations or documents.
-- 
+- **Web Presentation** - this is a collection of one or more web pages linked in a meaningful manner
