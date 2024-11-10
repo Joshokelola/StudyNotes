@@ -6,4 +6,7 @@ In the past, users had to adapt to the software that was developed, this shouldn
 Here are some general principles to adhere to for good user design:
 
 1st rule
-**Access** - a good system is usable without help or instruction by a user having knowledge and experience in the use of applications generally
+**Access** - a good system is usable without help or instruction by a user having knowledge and experience in the use of applications generally but no experience with the specific system/application.
+
+2nd rule
+**Efficacy** - good systems don't inter
