@@ -20,4 +20,4 @@ Here are some general principles to adhere to for good user design:
 5th rule
 **Context** - good systems are adapted to the conditions and environment of the operational context within which they're deployed.
 
-**Visisb**
+**Visibility Principle** - giving the user what they need to acc
