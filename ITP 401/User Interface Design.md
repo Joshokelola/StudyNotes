@@ -12,4 +12,4 @@ Here are some general principles to adhere to for good user design:
 **Efficacy** - good systems don't interfere with or disturb the efficient use by a skilled user having reasonable experience with the system.
 
 3rd rule
-**Progression** - 
+**Progression** - good systems are forward thinking and incorporate new features as the user gains experience with the
