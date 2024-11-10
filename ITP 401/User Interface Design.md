@@ -22,4 +22,4 @@ Here are some general principles to adhere to for good user design:
 
 **Visibility Principle** - giving the user what they need to accomplish a given task without distracting the user with irrelevant information
 
-**Feedback Principle** - keep
+**Feedback Principle** - keep users informed of actions
