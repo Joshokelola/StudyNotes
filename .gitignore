@@ -1,0 +1,4 @@
+# To ignore just cache data
+.obsidian/workspace.json
+.trash/
+.DS_Store
