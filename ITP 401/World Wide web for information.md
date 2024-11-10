@@ -14,4 +14,5 @@ A 3-tier architecture involves a server, a client and a backend program. The pro
 
 Example of 3-tier architecture is: Web based geographic data processing
 
-People who make
+## Organisation of documents in a web site
+- Web site - this is a 
