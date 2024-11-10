@@ -18,8 +18,44 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ee2b105f34163ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP 401/World Wide web for information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b679cd26407f33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP 401/World Wide web for information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82947c9b88dfbfcb",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ITP 401/World Wide web for information.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ITP 401/World Wide web for information.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +137,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ITP 401/World Wide web for information.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,13 +147,19 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "ITP 401/World Wide web for information.md"
-          }
+          "state": {}
+        }
+      },
+      {
+        "id": "e5c70006e5eaddea",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,12 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3149b1eda40e10a8",
+  "active": "82947c9b88dfbfcb",
   "lastOpenFiles": [
+    "ITP 401/World Wide web for information.md",
+    "conflict-files-obsidian-git.md",
+    "ITP 401/Terminologies & Concepts on the web.md",
     "Pasted image 20241110153343.png",
     "Templates/note.md",
-    "ITP 401/World Wide web for information.md",
-    "/ITP 401/World Wide web for information.md",
-    "ITP 401/Terminologies & Concepts on the web.md"
+    "/ITP 401/World Wide web for information.md"
   ]
 }
