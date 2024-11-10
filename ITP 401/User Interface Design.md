@@ -15,4 +15,4 @@ Here are some general principles to adhere to for good user design:
 **Progression** - good systems are forward thinking and incorporate new features as the user gains experience with the system
 
 4th rule
-**Support** - G
+**Support** - good systems support the work that users a
