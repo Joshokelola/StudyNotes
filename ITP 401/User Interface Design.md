@@ -24,5 +24,7 @@ Here are some general principles to adhere to for good user design:
 
 **Feedback Principle** - keep users informed of actions, changes of state and errors using clear and easy to understand language.
 
-*Us*
-**Reuse Principle** - reduce the need for users to rethink and remember by reusing internal/external components thereby maintaining consistency with purpose rather than merely arbitrary consistency
+*Use claude to rephrase it*
+**Reuse Principle** - reduce the need for users to rethink and remember by reusing internal/external components thereby maintaining consistency with purpose rather than merely arbitrary consistency.
+
+**Tolerance Principle** - 
