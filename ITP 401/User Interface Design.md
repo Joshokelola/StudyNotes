@@ -29,4 +29,4 @@ Here are some general principles to adhere to for good user design:
 
 **Tolerance Principle** - tolerate errors where possible, errors shouldn't totally cripple the application. Reduce the cost of mistakes by allowing undoing and redoing.
 
-**Simpliv**
+**Simplicity Principle** - 
