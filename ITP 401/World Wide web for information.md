@@ -17,4 +17,4 @@ Example of 3-tier architecture is: Web based geographic data processing
 - **Web site** - this is a server computer on the internet that contains one or more web presentations or documents.
 - **Web Presentation** - this is a collection of one or more web pages linked in a meaningful manner.
 - **Web page** - this is a single element of a web presentation. 
-**NOTE**
+**NOTE:** A web page that acts as a entry point for a web presentation is referred to as the home page
