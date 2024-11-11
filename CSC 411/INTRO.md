@@ -31,4 +31,6 @@ A record is a collection of attributes/columns/fields.
 
 - **Distributed Database Systems:** in these type of systems, the database is stored on several computers (as the name distributed implies). They communicate with each other through high speed private networks or the internet.
 
-- **Transactional Database System:** 
+- **Transactional Database System:** this is a database system that is designed to support the processing of business transactions.
+
+- 
