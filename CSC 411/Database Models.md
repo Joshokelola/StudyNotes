@@ -14,7 +14,9 @@
 	- A relational DB looks like the normal file which has rows and columns
 	- A row of a relational database is described as a tuple that represents a record.
 	- A column of a relational DB describes the attributes of the record.
-	- 
+	- An attribute draws it values from a value set called a domain.
+	- 2 or more attributes of a record may draw their values from the same domain
+	- Each record or tuple must have unique identifiers called the primary key.
 
 > [!NOTE]
 > ***Use Claude***
