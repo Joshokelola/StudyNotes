@@ -17,7 +17,6 @@
 	- An attribute draws it values from a value set called a domain.
 	- 2 or more attributes of a record may draw their values from the same domain
 	- Each record or tuple must have unique identifiers called the primary key.
-	- A tuple may have one or more candidate 
 
 > [!NOTE]
 > ***Use Claude***
