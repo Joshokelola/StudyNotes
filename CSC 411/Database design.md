@@ -1,0 +1,1 @@
+The design stage of a database is a crucial one as it is 
