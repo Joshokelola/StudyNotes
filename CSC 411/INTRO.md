@@ -12,3 +12,4 @@ A record is a collection of attributes/columns/fields.
 - Lack of standard
 - Duplication of efforts
 - Data Redundancy
+
