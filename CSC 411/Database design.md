@@ -1,3 +1,3 @@
 The design stage of a database is a crucial one as it is what ensures that a database can meet the needs/requirements of the users.
 Here are the the three main phases:
-- **Physical Design:** this involves getting requirements and analysing it. This is when the
+- **Physical Design:** this involves getting requirements and analysing it. At this stage the DB designer interviews DB users to get an understanding of what they need and then documents their requirements 
