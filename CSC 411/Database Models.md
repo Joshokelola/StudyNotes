@@ -7,4 +7,5 @@
 - **Relational Database Model:** this is when data is organised with the help of tables. It exemplifies the separation of data into logical structures, data tables, views and indexes. Relationships between records are achieved using the foreign key.
 	
 	**Features of relational DB model**
-	- Tables are arranged in form of records and the r
+	- Tables are arranged in form of records and the records are in turn arranged in form of attributes.
+	- Records are differentiated by a so called **primary key** 
