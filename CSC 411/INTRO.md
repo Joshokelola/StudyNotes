@@ -25,3 +25,5 @@ A record is a collection of attributes/columns/fields.
 - Data Integrity issues
 - Problem of data recovery if the system fails.
 - Problem of access to data if there's a breakdown of communication networks.
+
+## 
