@@ -9,4 +9,5 @@
 	**Features of relational DB model**
 	- Tables are arranged in form of records and the records are in turn arranged in form of attributes.
 	- Records are differentiated by a so called **primary key**, the primary key ensures uniqueness of each of the records.
-	- The concept of **foreign keys** helps to initiate a logical connection beterr
+	- It has the concept of **foreign keys** which helps to initiate a logical connection between one relation and another.
+	- Secondary key is an attribute of a 
