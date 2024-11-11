@@ -12,5 +12,5 @@
 	- It has the concept of **foreign keys** which helps to initiate a logical connection between one relation and another.
 	- **Secondary key** is an attribute of a relation that serves as indexes to a cluster of related records. It enables a cluster of records to be pulled out by just one command instead of continually retrieving records one after the other.
 
-- **Object oriented relati** 
+- **Object oriented relational DB model:**  
 - 
