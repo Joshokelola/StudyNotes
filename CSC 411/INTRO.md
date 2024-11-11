@@ -27,4 +27,6 @@ A record is a collection of attributes/columns/fields.
 - Problem of access to data if there's a breakdown of communication networks.
 
 ## Types of Database Systems
-- **Centralized Database System:** these are database systems that run on a single computer and don't interact with other computer systems. They have to ability to store data 
+- **Centralised Database System:** these are database systems that run on a single computer and don't interact with other computer systems. They store data on that single computer but can support multiple users.
+
+- **Distributed Database Syse**
