@@ -21,4 +21,7 @@ A record is a collection of attributes/columns/fields.
 
 ![[Pasted image 20241111132133.png]]
 ## What are some disadvantages of Database System?
-- Security & Privacy
+- Security & Privacy issues
+- Data Integrity issues
+- Problem of data recovery if the system fails.
+- Problem of access to data if there's a breakdown of communica
