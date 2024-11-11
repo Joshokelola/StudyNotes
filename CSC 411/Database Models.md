@@ -10,4 +10,4 @@
 	- Tables are arranged in form of records and the records are in turn arranged in form of attributes.
 	- Records are differentiated by a so called **primary key**, the primary key ensures uniqueness of each of the records.
 	- It has the concept of **foreign keys** which helps to initiate a logical connection between one relation and another.
-	- **Secondary key** is an attribute of a relation that serves as indexes to a cluster of related records. It enables
+	- **Secondary key** is an attribute of a relation that serves as indexes to a cluster of related records. It enables a clus
