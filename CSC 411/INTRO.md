@@ -14,3 +14,4 @@ A record is a collection of attributes/columns/fields.
 - Data Redundancy
 
 ![[Pasted image 20241111130830.png]]
+
