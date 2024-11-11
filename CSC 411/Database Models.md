@@ -12,7 +12,9 @@
 	- It has the concept of **foreign keys** which helps to initiate a logical connection between one relation and another.
 	- **Secondary key** is an attribute of a relation that serves as indexes to a cluster of related records. It enables a cluster of records to be pulled out by just one command instead of continually retrieving records one after the other.
 	- A relational DB looks like the normal file which has rows and columns
-	- A row of a relational database is defined
+	- A row of a relational database is described as a tuple that represents a record.
+	- A column of a relational DB describes the attributes of the record.
+	- 
 
 > [!NOTE]
 > ***Use Claude***
