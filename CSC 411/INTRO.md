@@ -27,4 +27,4 @@ A record is a collection of attributes/columns/fields.
 - Problem of access to data if there's a breakdown of communication networks.
 
 ## Types of Database Systems
-- **Centralised Database System:** 
+- **Centralized Database System:** 
