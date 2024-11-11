@@ -9,8 +9,8 @@ A record is a collection of attributes/columns/fields.
 
 ## Applications For Database System
 - TODO
-- 
-- v
+- TODO
+- TODO
 ## Justifications For Database System
 - Lack of central system
 - Lack of standard
