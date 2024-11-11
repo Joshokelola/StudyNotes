@@ -4,5 +4,4 @@
 
 - **Network Database Model:** this is basically an improvement on the hierarchical database model. It organises data in a tree-like structure too but in a flexible way so as to accommodate many-to-many relationship.
 
-- **Relational Database Model:** this is when data is organised with the help of tables. It exemplifies the separation of data into logical structures, data tables, views and indexes.
-  Relationships between records are achieved using the foreign key.
+- **Relational Database Model:** this is when data is organised with the help of tables. It exemplifies the separation of data into logical structures, data tables, views and indexes. Relationships between records are achieved using the foreign key.
