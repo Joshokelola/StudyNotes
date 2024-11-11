@@ -7,6 +7,10 @@ A file is a collection of related records.
 **What is a Record?**
 A record is a collection of attributes/columns/fields.
 
+## Applications For Database System
+- TODO
+- 
+- v
 ## Justifications For Database System
 - Lack of central system
 - Lack of standard
