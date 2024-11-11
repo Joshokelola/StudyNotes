@@ -1,17 +1,2 @@
-# Key Question: [Your Question Here]
-- 
-- 
-- 
-
-# Self-Test ❓
-Q: 
-A: 
-
-Q: 
-A: 
-
-# Connections 🔗
-- 
-
-# Quick Summary 💡
-[One-line summary in your own words]
+## What is a DBMS ?
+A database management is a collection of interrelated dat
