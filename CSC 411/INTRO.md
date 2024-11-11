@@ -13,3 +13,4 @@ A record is a collection of attributes/columns/fields.
 - Duplication of efforts
 - Data Redundancy
 
+![[Pasted image 20241111130830.png]]
