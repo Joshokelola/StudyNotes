@@ -18,4 +18,6 @@ A record is a collection of attributes/columns/fields.
 
 
 **Architecture of Database System**
+
 ![[Pasted image 20241111132133.png]]
+
