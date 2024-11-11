@@ -10,4 +10,5 @@ A record is a collection of attributes/columns/fields.
 ## Justifications For Database System
 - Lack of central system
 - Lack of standard
-- Depriva
+- Duplication of efforts
+- Data Redundancy
