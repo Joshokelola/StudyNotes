@@ -36,4 +36,4 @@ A record is a collection of attributes/columns/fields.
 - **Decision Support System:** this is a database system whose goal is qualitative transaction. It doesn't support updates of records. If an update is to be carried out at all, It has to pass through a series of approval and its usually done by bulk load that is multiple records are changed at a time.
 
 ## Database Models
-- Hierarchical 
+- **Hierarchical** 
