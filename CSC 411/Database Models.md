@@ -4,4 +4,4 @@
 
 - **Network Database Model:** this is basically an improvement on the hierarchical database model. It organises data in a tree-like structure too but in a flexible way so as to accommodate many-to-many relationship.
 
-- **Relational Da**
+- **Relational Database Model:** this is when data is organised with
