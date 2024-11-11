@@ -33,4 +33,4 @@ A record is a collection of attributes/columns/fields.
 
 - **Transactional Database System:** this is a database system that is designed to support the processing of business transactions.
 
-- **Decision Support System:**  
+- **Decision Support System:** this is a database system whose goal is qualitative transaction. It doesn't support updates of recor
