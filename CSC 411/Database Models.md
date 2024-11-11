@@ -1,3 +1,3 @@
 ## Types Of Database Models
 
-- **Hierarchical Database Model:** this is when the data is organised into t
+- <u>**Hierarchical Database Model:**</u> this is when the data is organised into a **tree like structure**. The data are stored as records which are connected
