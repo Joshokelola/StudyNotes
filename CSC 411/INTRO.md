@@ -29,4 +29,4 @@ A record is a collection of attributes/columns/fields.
 ## Types of Database Systems
 - **Centralised Database System:** these are database systems that run on a single computer and don't interact with other computer systems. They store data on that single computer but can support multiple users.
 
-- **Distributed Database Systems:** in these type of systems 
+- **Distributed Database Systems:** in these type of systems, the database is stored on several computers (as the name distributed implies). They commu
