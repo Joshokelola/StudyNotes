@@ -13,7 +13,7 @@
 	- **Secondary key** is an attribute of a relation that serves as indexes to a cluster of related records. It enables a cluster of records to be pulled out by just one command instead of continually retrieving records one after the other.
 
 > [!NOTE]
-> *Use Claude*
+> ***Use Claude***
 > Get the technical and economical significance of the following concepts in relational db model:
 > - Primary key
 > - Foreign key
