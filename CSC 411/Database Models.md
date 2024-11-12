@@ -40,24 +40,18 @@
   - Creates relationships between tables
   - Enforces referential integrity
   - Prevents orphaned records
-  - Enables join operations between tables
-  - Can be NULL (unlike primary keys)
 
-- Economic Significance:
-  - Enables data normalization, reducing storage costs
+- **Economic Significance**:
+  - Enables data normalisation, reducing storage costs
   - Supports complex queries across related data
-  - Prevents data inconsistencies, reducing maintenance costs
-  - Allows for flexible database design and scalability
 
-Secondary Key (Also called Candidate Key)
-- Technical Significance:
+**Secondary Key**
+- **Technical Significance**:
   - Alternative unique identifier for records
   - Can be used as backup identification method
   - Often used for natural business identifiers
-  - May contain NULL values (depending on configuration)
 
-- Economic Significance:
+- **Economic Significance**:
   - Provides additional access paths to data
   - Supports business-specific queries
   - Enables alternative indexing strategies
-  - Can improve query performance for specific use cases
