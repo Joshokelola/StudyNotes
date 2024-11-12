@@ -25,22 +25,18 @@
 > - Foreign key
 > - Secondary key.
 
-Primary Key
-- Technical Significance:
+**Primary Key**
+- **Technical Significance**:
   - Uniquely identifies each record in a table
   - Ensures data integrity by preventing duplicate records
-  - Can't contain NULL values
-  - Creates an automatic index for faster record retrieval
   - Forms the basis for table relationships
 
-- Economic Significance:
+- **Economic Significance**:
   - Reduces data redundancy, saving storage costs
   - Enables faster queries, reducing processing time and computing costs
-  - Helps maintain data quality, reducing error correction costs
-  - Facilitates data integration, saving development time
 
-Foreign Key
-- Technical Significance:
+**Foreign Key**
+- **Technical Significance**:
   - Creates relationships between tables
   - Enforces referential integrity
   - Prevents orphaned records
