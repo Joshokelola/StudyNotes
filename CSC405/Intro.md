@@ -3,5 +3,6 @@
 - Software process descriptions
 - Plan driven and agile processes
 	- Software process models
-		-  Defi
+		-  Definitions/Features of the models
 		 - Problems with the different models
+- Process activiti 
