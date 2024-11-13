@@ -6,3 +6,6 @@
 		-  Definitions/Features of the models
 		 - Problems with the different models
 - Process activities 
+- Software specification
+- Software design and implementation
+- Software a
