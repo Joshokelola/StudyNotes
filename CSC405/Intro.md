@@ -5,4 +5,4 @@
 	- Software process models
 		-  Definitions/Features of the models
 		 - Problems with the different models
-- Process activiti 
+- Process activities 
