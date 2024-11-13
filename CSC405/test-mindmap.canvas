@@ -2,10 +2,10 @@
 	"nodes":[
 		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":0,"y":-360,"width":160,"height":60,"color":"1"},
 		{"id":"4fb75a30c6e72192","type":"text","text":"Simply a set of steps to follow to create good software","x":-45,"y":-160,"width":250,"height":100,"color":"5"},
-		{"id":"7e70c3cd64c9af1c","x":300,"y":-480,"width":250,"height":60,"type":"text","text":""}
+		{"id":"7e70c3cd64c9af1c","x":420,"y":-480,"width":160,"height":50,"type":"text","text":"Specification"}
 	],
 	"edges":[
 		{"id":"ae3227c6ae6b4dfa","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top","color":"2","label":"Definition"},
-		{"id":"d3a3281dcde3d869","fromNode":"69972ef3438df2c3","fromSide":"right","toNode":"7e70c3cd64c9af1c","toSide":"left","label":"Processes involved"}
+		{"id":"d3a3281dcde3d869","fromNode":"69972ef3438df2c3","fromSide":"right","toNode":"7e70c3cd64c9af1c","toSide":"left","label":"Processes \ninvolved"}
 	]
 }
