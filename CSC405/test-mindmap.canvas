@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"7e70c3cd64c9af1c","type":"text","text":"Specification","x":340,"y":-500,"width":160,"height":50},
-		{"id":"aa7337da82c806de","type":"text","text":"Design/implementation","x":300,"y":-350,"width":240,"height":65},
 		{"id":"4fb75a30c6e72192","type":"text","text":"Simply a set of steps to follow to create good software","x":-120,"y":-165,"width":250,"height":100,"color":"5"},
 		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":-75,"y":-365,"width":180,"height":80,"color":"1"},
-		{"id":"0e48d3aa7ec5babd","x":338,"y":-219,"width":164,"height":54,"type":"text","text":"Validation"}
+		{"id":"0e48d3aa7ec5babd","x":338,"y":-219,"width":164,"height":54,"type":"text","text":"Validation"},
+		{"id":"aa7337da82c806de","type":"text","text":"Design/implementation","x":300,"y":-365,"width":240,"height":65}
 	],
 	"edges":[
 		{"id":"ae3227c6ae6b4dfa","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top","color":"2","label":"Definition"},
