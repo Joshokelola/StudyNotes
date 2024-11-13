@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"30c05afffca7f886","x":-840,"y":-1240,"width":320,"height":360,"color":"2","type":"file","file":"ITP 401/World Wide web for information.md"},
-		{"id":"a490c4d8cf23a748","x":-148,"y":-460,"width":250,"height":187,"type":"text","text":""}
+		{"id":"30c05afffca7f886","type":"file","file":"ITP 401/World Wide web for information.md","x":-840,"y":-1240,"width":320,"height":360,"color":"2"},
+		{"id":"a490c4d8cf23a748","type":"text","text":"","x":-148,"y":-460,"width":250,"height":187}
 	],
 	"edges":[]
 }
