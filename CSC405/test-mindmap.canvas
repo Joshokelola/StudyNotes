@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":80,"y":-280,"width":250,"height":60,"color":"1"},
-		{"id":"4fb75a30c6e72192","type":"text","text":"","x":220,"y":-140,"width":250,"height":60,"color":"5"}
+		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":0,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"4fb75a30c6e72192","type":"text","text":"","x":180,"y":-200,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
-		{"id":"39bf6483daf7689d","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top"}
+		{"id":"ae3227c6ae6b4dfa","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top","label":"Deg"}
 	]
 }

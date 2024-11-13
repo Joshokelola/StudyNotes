@@ -8,4 +8,4 @@
 - Process activities 
 - Software specification
 - Software design and implementation
-- Software a
+- Software validation
