@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"69972ef3438df2c3","x":-100,"y":-100,"width":250,"height":60,"type":"text","text":"SOFTWARE PROCESS"}
+		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":0,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"4fb75a30c6e72192","x":-250,"y":-190,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"39bf6483daf7689d","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top"}
+	]
 }
