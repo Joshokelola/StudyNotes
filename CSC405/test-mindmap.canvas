@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":0,"y":-360,"width":250,"height":60,"color":"1"},
-		{"id":"4fb75a30c6e72192","type":"text","text":"","x":250,"y":-160,"width":250,"height":60,"color":"5"}
+		{"id":"69972ef3438df2c3","type":"text","text":"  **SOFTWARE PROCESS**","x":0,"y":-360,"width":160,"height":60,"color":"1"},
+		{"id":"4fb75a30c6e72192","type":"text","text":"Simply a set of steps to follow to create good software","x":250,"y":-160,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"ae3227c6ae6b4dfa","fromNode":"69972ef3438df2c3","fromSide":"bottom","toNode":"4fb75a30c6e72192","toSide":"top","color":"2","label":"Definition"}
