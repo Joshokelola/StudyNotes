@@ -1,11 +1,9 @@
 {
 	"nodes":[
-		{"id":"5f5750ce6cc6ddc2","type":"text","text":"**SOFTWARE PROCESSES**","x":40,"y":240,"width":260,"height":60},
-		{"id":"a510d90f776ae9c0","type":"text","text":"","x":500,"y":170,"width":200,"height":100},
-		{"id":"a2b005c19cc79ded","type":"text","text":"","x":500,"y":310,"width":200,"height":100}
+		{"id":"5f5750ce6cc6ddc2","type":"text","text":"**SOFTWARE PROCESSES**","x":40,"y":240,"width":260,"height":60,"color":"1"},
+		{"id":"a510d90f776ae9c0","type":"text","text":"**INTRO**","x":420,"y":140,"width":120,"height":50}
 	],
 	"edges":[
-		{"id":"81d6d692f1a4f104","fromNode":"5f5750ce6cc6ddc2","fromSide":"right","toNode":"a510d90f776ae9c0","toSide":"left"},
-		{"id":"c04cada6418ba982","fromNode":"5f5750ce6cc6ddc2","fromSide":"right","toNode":"a2b005c19cc79ded","toSide":"left"}
+		{"id":"81d6d692f1a4f104","fromNode":"5f5750ce6cc6ddc2","fromSide":"right","toNode":"a510d90f776ae9c0","toSide":"left","color":"1"}
 	]
 }
