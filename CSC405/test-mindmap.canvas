@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"5f5750ce6cc6ddc2","type":"text","text":"**SOFTWARE PROCESSES**","x":40,"y":240,"width":260,"height":60,"color":"1"},
-		{"id":"4130c1e4cf97d197","type":"text","text":"**Description**: A series of steps taken to create high quality software.","x":700,"y":120,"width":320,"height":75},
-		{"id":"a510d90f776ae9c0","type":"text","text":"**INTRO**","x":380,"y":170,"width":120,"height":50}
+		{"id":"a510d90f776ae9c0","type":"text","text":"**INTRO**","x":380,"y":170,"width":120,"height":50},
+		{"id":"4130c1e4cf97d197","type":"text","text":"**Description**: A series of steps taken to create high quality software.","x":600,"y":40,"width":320,"height":75}
 	],
 	"edges":[
 		{"id":"81d6d692f1a4f104","fromNode":"5f5750ce6cc6ddc2","fromSide":"right","toNode":"a510d90f776ae9c0","toSide":"left","color":"1"},
