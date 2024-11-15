@@ -4,4 +4,6 @@ This refers to the system and processes where information is created, managed, p
 ## What is a content management system?
 This provides the infrastructure for different people to contribute content and collaborate throughout these life cycles.
 
-# Features offered by a CM
+# Features offered by a CMS
+- Easy content creation and editing for anybody.
+- 
