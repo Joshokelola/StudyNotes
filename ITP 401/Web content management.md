@@ -9,3 +9,5 @@ This provides the infrastructure for different people to contribute content and 
 - Archival and versioning of content
 - Use of templates for consistent output
 - Access rights for security.
+
+# The problems of Classical Approach
