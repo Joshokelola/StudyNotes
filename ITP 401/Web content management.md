@@ -10,4 +10,5 @@ This provides the infrastructure for different people to contribute content and 
 - Use of templates for consistent output
 - Access rights for security.
 
-# The problems of Classical Approach
+# The problems of Classical Approach to web content updating
+- Typically the technical staff had 
