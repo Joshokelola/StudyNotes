@@ -8,4 +8,4 @@ This provides the infrastructure for different people to contribute content and 
 - Easy content creation and editing for anybody.
 - Archival and versioning of content
 - Use of templates for consistent output
-- 
+- Access rights for security.
