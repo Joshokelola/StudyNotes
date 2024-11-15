@@ -15,4 +15,4 @@ This provides the infrastructure for different people to contribute content and 
 - Also when several people update a web page, keeping track of who updates what is harder.
 
 # What is a web content management system?
-A wcms is a web app that allows a group of users from 
+A wcms is a web app that allows for the maintenance, organisation and updating of web content in an effective and manageable way
