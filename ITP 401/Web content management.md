@@ -11,4 +11,4 @@ This provides the infrastructure for different people to contribute content and 
 - Access rights for security.
 
 # The problems of Classical Approach to web content updating
-- Typically the technical staff had 
+- Typically the technical staff needs to work with a content editor to update a website, 
