@@ -6,4 +6,6 @@ This provides the infrastructure for different people to contribute content and 
 
 # Features offered by a CMS
 - Easy content creation and editing for anybody.
+- Archival and versioning of content
+- Use of templates for consistent output
 - 
