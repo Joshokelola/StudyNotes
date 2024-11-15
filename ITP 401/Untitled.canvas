@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"e81614a5315019ec","type":"file","file":"ITP 401/User Interface Design.md","x":-1080,"y":-1120,"width":400,"height":400},
 		{"id":"2fe0b972fe04c324","type":"text","text":"**USER INTERFACE DESIGN\n**","x":-497,"y":-807,"width":250,"height":60,"color":"4"},
-		{"id":"e042badd3652cc2a","type":"text","text":"","x":-47,"y":-807,"width":200,"height":100,"color":"5"}
+		{"id":"e042badd3652cc2a","type":"text","text":"This simply involves the design of interfaces with the user in mind","x":-47,"y":-807,"width":200,"height":100,"color":"5"},
+		{"id":"e81614a5315019ec","type":"file","file":"ITP 401/User Interface Design.md","x":-520,"y":-1260,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"250aa1a9cf16a8fc","fromNode":"2fe0b972fe04c324","fromSide":"right","toNode":"e042badd3652cc2a","toSide":"left"}
