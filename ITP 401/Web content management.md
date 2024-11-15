@@ -12,3 +12,6 @@ This provides the infrastructure for different people to contribute content and 
 
 # The problems of Classical Approach to web content updating
 - Typically the technical staff needs to work with a content editor to update a website, this process is typically a time consuming process which requires a lot of back and forth.
+- Also when several people update a web page, keeping track of who updates what is harder.
+
+
