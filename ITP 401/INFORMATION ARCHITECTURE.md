@@ -21,4 +21,5 @@ Creating these type of systems of information, you need to understand how users,
 **What happens when you don't have a good understanding of the three factors listed above?**
 - A **LACK OF KNOWLEDGE ABOUT PEOPLE** will result in grouping content in ways that don't make any sense to them or in a way that further complicates things.
 - A **LACK OF UNDERSTANDING OF YOUR CONTENT** will lead to IA that doesn't work well for current and future content.
-- A **LACK OF KNOWLEDGE ABOUT CONTEXT** will lead to the inability to create something that works for people and the business
+- A **LACK OF KNOWLEDGE ABOUT CONTEXT** will lead to the inability to create something that works for people and the business and you'll have endless trouble in the project.
+
