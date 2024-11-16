@@ -13,4 +13,5 @@ Creating these type of systems of information, you need to understand how users,
 - providing clues to help use the site efficiently, and
 - developing navigational structure.
 
-
+**What you need to create a good information architecture -**
+- **People**: understanding what they need to do, how they think and what t 
