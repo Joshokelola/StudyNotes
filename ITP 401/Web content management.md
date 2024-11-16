@@ -42,4 +42,4 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - Publishing
 
 # Advantages of CMS
-- **Empower Content** - this involves making be
+- **Empower Content** - this involves making better use of information and putting control back in the hands of content owners. Businesses can update info quickly without the need of an IT expert, this 
