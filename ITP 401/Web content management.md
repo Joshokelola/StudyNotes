@@ -50,10 +50,10 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 
 # How does a CMS compare to traditional online information updating?
 
-|                         | **With CMS**                                                                                     | **Without CMS**  |
-| ----------------------- | ------------------------------------------------------------------------------------------------ | ---------------- |
-| **New page creation**   | A new page is created based on a predefined default. Navigation links are updated automatically. | New pages are ct |
-| **Content Consistency** |                                                                                                  |                  |
-| **Workflow processes**  |                                                                                                  |                  |
-| **Publish Times**       |                                                                                                  |                  |
-| **Legal compliance**    |                                                                                                  |                  |
+|                         | **With CMS**                                                                                     | **Without CMS**                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **New page creation**   | A new page is created based on a predefined default. Navigation links are updated automatically. | New pages are created as a copy of existing ones. The navigation links must be updated by hand. |
+| **Content Consistency** |                                                                                                  |                                                                                                 |
+| **Workflow processes**  |                                                                                                  |                                                                                                 |
+| **Publish Times**       |                                                                                                  |                                                                                                 |
+| **Legal compliance**    |                                                                                                  |                                                                                                 |
