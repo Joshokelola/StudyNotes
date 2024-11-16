@@ -7,3 +7,8 @@ Creating these type of systems of information, you need to understand how users,
 **Rosenfield and Morville** referred to this as the "**Information ecology**" and visualised this as a venn diagram.
 ![[Pasted image 20241116203813.png]]
 
+**INFORMATION ARCHITECTURE** involves the following steps:
+assessing existing and needed content,
+organizing the pages,
+providing clues to help use the site effciently, and
+developing navigational structure.
