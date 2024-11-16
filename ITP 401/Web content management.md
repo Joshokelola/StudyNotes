@@ -50,10 +50,10 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 
 # How does a CMS compare to traditional online information updating?
 
-|                       | **With CMS** | **Without CMS** |
-| --------------------- | ------------ | --------------- |
-| **New page creation** |              |                 |
-| C                     |              |                 |
-|                       |              |                 |
-|                       |              |                 |
-|                       |              |                 |
+|                         | **With CMS** | **Without CMS** |
+| ----------------------- | ------------ | --------------- |
+| **New page creation**   |              |                 |
+| **Content Consistency** |              |                 |
+| **Workflow processes**  |              |                 |
+| **Publish Times**       |              |                 |
+| **Legal compliance**    |              |                 |
