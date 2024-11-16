@@ -28,4 +28,5 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - Revision control and version tracking
 - Content indexing
 - Search and retrieval capabilities
-- 
+
+## Categories of CMS by function
