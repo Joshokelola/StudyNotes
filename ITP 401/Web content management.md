@@ -18,3 +18,4 @@ This provides the infrastructure for different people to contribute content and 
 A WCMS is a web app that allows for the maintenance, organisation and updating of web content in an effective and manageable way.
 
 
+# Components of WCMS 
