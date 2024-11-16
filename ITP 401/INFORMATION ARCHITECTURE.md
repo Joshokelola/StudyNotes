@@ -18,4 +18,5 @@ Creating these type of systems of information, you need to understand how users,
 - **Content**: what you have, what you should have and what you need.
 - **Context**: the business or personal goals for the site, who else will be involved and what your constraints are.
 
-
+**What happens when you don't have a good understanding of the three factors listed above?**
+-                     
