@@ -3,3 +3,4 @@ This focuses on organising, structuring and labelling content in an effective an
 
 ## Why does well thought out IA matter?
 The major purpose of the IA is to help users understand where they are, what they've found, what's around, and what to expect.
+Creating these type of systems of information, you need to understand the interde
