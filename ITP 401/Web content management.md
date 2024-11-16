@@ -48,5 +48,12 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - **Accountability -** improved accountability with the help of audit trails - which is a snapshot of the history of recent changes to content.
 - **Maintain consistency -** the content published on a site is usually displayed with a template which makes the site look and feel constantly familiar to a user. It helps to maintain **brand integrity** as well that is graphics and colors are kept true to company's policies.
 
-How does a CMS compare to traditional online information
-updating?
+# How does a CMS compare to traditional online information updating?
+
+|                       | **With CMS** | **Without CMS** |
+| --------------------- | ------------ | --------------- |
+| **New page creation** |              |                 |
+| C                     |              |                 |
+|                       |              |                 |
+|                       |              |                 |
+|                       |              |                 |
