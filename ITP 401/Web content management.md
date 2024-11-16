@@ -46,4 +46,4 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - **Decrease costs -** it reduces costs because the technical steps that an IT professional(i.e webmaster) will need to take is removed, hence tasks like content creation no longer requires IT professionals along the way because it can be managed by a non technical person.
 - **Increase Revenues** - the CMS improves revenues of businesses since it has a lower time to market for content, the low time to market helps to capture time sensitive opportunities better. 
 - **Accountability -** improved accountability with the help of audit trails - which is a snapshot of the history of recent changes to content.
-- **Maintain consistency -** the content published on a site is usually displayed with a 
+- **Maintain consistency -** the content published on a site is usually displayed with a template which makes the site look and feel constantly familiar to a user. It helps to maintain brand integrity as well that is graphics and colors are k
