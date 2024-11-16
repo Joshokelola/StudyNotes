@@ -8,7 +8,9 @@ Creating these type of systems of information, you need to understand how users,
 ![[Pasted image 20241116203813.png]]
 
 **INFORMATION ARCHITECTURE** involves the following steps:
-assessing existing and needed content,
-organizing the pages,
-providing clues to help use the site effciently, and
-developing navigational structure.
+- assessing existing and needed content,
+- organising the pages,
+- providing clues to help use the site efficiently, and
+- developing navigational structure.
+
+
