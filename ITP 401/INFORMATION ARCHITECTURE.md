@@ -19,4 +19,5 @@ Creating these type of systems of information, you need to understand how users,
 - **Context**: the business or personal goals for the site, who else will be involved and what your constraints are.
 
 **What happens when you don't have a good understanding of the three factors listed above?**
-- A **LACK OF KNOWLEDGE ABOUT PEOPLE** will result in grouping content in ways that don't make any sense to them or in a way that further complicates theit
+- A **LACK OF KNOWLEDGE ABOUT PEOPLE** will result in grouping content in ways that don't make any sense to them or in a way that further complicates things.
+- A **LACK OF UNDERSTANDING OF YOUR CONTENT** will lead to IA that doesn't work well for current and future cont
