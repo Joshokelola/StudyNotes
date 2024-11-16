@@ -41,4 +41,5 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - Storage/management
 - Publishing
 
-
+# Advantages of CMS
+- 
