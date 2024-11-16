@@ -1,2 +1,4 @@
 # What is information architecture?
 This focuses on organising, structuring and labelling content in an effective and sustainable way. The end goal is to help users find information and complete tasks.
+
+## Why does a well thought out IA 
