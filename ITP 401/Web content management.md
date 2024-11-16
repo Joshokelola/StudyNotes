@@ -30,7 +30,7 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 - Search and retrieval capabilities
 
 ## Categories of CMS by function
-- **Content collection/ Authoring** - 
+- **Content collection/ Authoring** - the collection system basically encompasses the tools, procedures and staff that are employed to gather content. 
 - Workflow
 - Storage/management
 - Publishing
