@@ -50,10 +50,10 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 
 # How does a CMS compare to traditional online information updating?
 
-|                         | **With CMS**                                                                                      | **Without CMS**                                                                                 |
-| ----------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **New page creation**   | A new page is created based on a predefined default. Navigation links are updated automatically.  | New pages are created as a copy of existing ones. The navigation links must be updated by hand. |
-| **Content Consistency** | Since template is separated from content, there's a consistency in the look and feel of the site. | Content and template are mixed together making it difficult to update changes site wide         |
-| **Workflow processes**  | There's built in workflows to mirror designated business processes.                               | Conte                                                                                           |
-| **Publish Times**       | Content is published immediately as soon as necessary approvals have been made.                   |                                                                                                 |
-| **Legal compliance**    |                                                                                                   |                                                                                                 |
+|                         | **With CMS**                                                                                                            | **Without CMS**                                                                                 |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **New page creation**   | A new page is created based on a predefined default. Navigation links are updated automatically.                        | New pages are created as a copy of existing ones. The navigation links must be updated by hand. |
+| **Content Consistency** | Since template is separated from content, there's a consistency in the look and feel of the site.                       | Content and template are mixed together making it difficult to update changes site wide         |
+| **Workflow processes**  | There's built in workflows to mirror designated business processes. There's an audit created for every step on the way. | Conte                                                                                           |
+| **Publish Times**       | Content is published immediately as soon as necessary approvals have been made.                                         |                                                                                                 |
+| **Legal compliance**    |                                                                                                                         |                                                                                                 |
