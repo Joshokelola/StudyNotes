@@ -44,4 +44,4 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 # Advantages of CMS
 - **Empower Content** - this involves making better use of information and putting control back in the hands of content owners. Businesses can update info quickly without the need of an IT expert, this gives them full access to do as they wish with their content.
 - **Decrease costs -** it reduces costs because the technical steps that an IT professional(i.e webmaster) will need to take is removed, hence tasks like content creation no longer requires IT professionals along the way because it can be managed by a non technical person.
-- **Increase Revenues** - 
+- **Increase Revenues** - the CMS improves revenues of businesses since it has a lower time to market for content, the 
