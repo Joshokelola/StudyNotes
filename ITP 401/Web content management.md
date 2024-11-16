@@ -19,3 +19,6 @@ A WCMS is a web app that allows for the maintenance, organisation and updating o
 
 
 # Components of WCMS 
+- Built with languages like java/PHP
+- The backend is made up of web server + database
+- Workflow engines, sea
