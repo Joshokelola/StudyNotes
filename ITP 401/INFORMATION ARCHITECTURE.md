@@ -16,4 +16,6 @@ Creating these type of systems of information, you need to understand how users,
 **What you need to create a good information architecture -**
 - **People**: understanding what they need to do, how they think and what they already know
 - **Content**: what you have, what you should have and what you need.
-- **Context**: the business or personal goals for the site, who else will be invo
+- **Context**: the business or personal goals for the site, who else will be involved and what your constraints are.
+
+
