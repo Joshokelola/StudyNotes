@@ -15,3 +15,5 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 
 - **Manual drafting** requires **relatively low investment** compared to the **enormous amount** required for **computer graphics**.
 
+# Advantages of computer graphics
+- 
