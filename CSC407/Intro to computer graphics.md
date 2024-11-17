@@ -24,5 +24,5 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 
 # Classification Of Computer Graphics 
 **ACCORDING TO APPLICATION**:
-- **Passive computer graphics(Off-line)**: the most common example of this  
+- **Passive computer graphics(Off-line)**: an example of this is static website, 
 # What are some characteristics of computer graphics?
