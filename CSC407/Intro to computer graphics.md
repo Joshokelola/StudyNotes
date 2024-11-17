@@ -64,4 +64,4 @@ Interactive Computer graphics consists of the following:
 > Read up on definitions on these applications from the main PDF.
 
 # What is computer vision?
-This is a sub field of 
+This is a branch of computer science and its goal is to model the real world or to recognise 
