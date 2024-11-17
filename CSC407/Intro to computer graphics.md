@@ -63,3 +63,5 @@ Interactive Computer graphics consists of the following:
 > [!Note:] Important
 > Read up on definitions on these applications from the main PDF.
 
+# What is computer vision?
+This is a sub field of 
