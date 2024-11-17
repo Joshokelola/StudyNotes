@@ -67,4 +67,6 @@ Interactive Computer graphics consists of the following:
 This is a branch of computer science and its goal is to model the real world or to recognise objects from digital images. These images can be acquired in a host of ways using things like video cameras, radars, sensors etc.
 Primary goals include:
 - Tracking an object through image sequence
-- 
+- Mapping a scene to a 3D model of the scene and the model can be used by a robot.
+**Major applications of COMPUTER VISION:**
+- Creation of visual effects 
