@@ -22,7 +22,7 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - Computer graphics also provides a tool called **update dynamics**, this tool makes it possible to change the shape, colour or other properties of an object.
 - Computer graphics can provide audio feedback alongside graphical feedback to make a simulated environment feel more realistic.
 
-# Classification Of Computer Graphics
-- 
+# Classification Of Computer Graphics 
+**ACCORDING TO APPLICATION**
 
 # What are some characteristics of computer graphics?
