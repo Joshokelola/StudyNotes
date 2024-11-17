@@ -28,5 +28,6 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - **Interactive computer graphics (On-line)**: displays are typically controlled by mouse, trackball, joystick etc. This is referred to as interactive because the user can interact with the machine as per his requirements. Examples include video games, cartoons, special effects in movies.
 
 **OTHER CLASSIFICATIONS**:
-- **Business graphics/Presentation graphics**: this refers to graphics such as bar-charts, pie charts etc. used to present quantitative information to inform and
+- **Business graphics/Presentation graphics**: this refers to graphics such as bar-charts, pie charts etc. used to present quantitative information to inform and convince the audience.
+- **Scientific graphics**: this includes things like x-y plots, curve fi
 # What are some characteristics of computer graphics?
