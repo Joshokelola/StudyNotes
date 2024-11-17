@@ -45,4 +45,4 @@ Interactive Computer graphics consists of the following:
 - Display controller.
 
 ![[Pasted image 20241117144821.png]]
-**Digital memo**
+**Digital memory buffer (Frame Buffer):** this is the p
