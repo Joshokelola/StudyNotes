@@ -23,6 +23,6 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - Computer graphics can provide audio feedback alongside graphical feedback to make a simulated environment feel more realistic.
 
 # Classification Of Computer Graphics 
-**ACCORDING TO APPLICATION**
-
+**ACCORDING TO APPLICATION**:
+- **Passive computer graphics**:  
 # What are some characteristics of computer graphics?
