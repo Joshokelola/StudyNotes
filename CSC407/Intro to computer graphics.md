@@ -11,4 +11,6 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 
 - **Special effects** like colour and shading **take more time/effort** in manual drafting and requires **specialists**. With computer graphics, these enhancements are **built into the software/hardware** which results in **lesser time and lesser effort**.
 
-- If there's a change in the view usually caused by changing the viewpoint, scale e.t.c the entire thing will have to be redrawn as a fresh drawing. However when computerised, all modifications can be done through a few commands
+- If there's a **change in view** usually caused by changing the viewpoint, scale e.t.c the entire thing **will have to be redrawn** as a fresh drawing. However when **computerised**, all modifications can be done through **a few commands without any stress**.
+
+- 
