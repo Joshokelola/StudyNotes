@@ -17,4 +17,5 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 
 # What Are Some Advantages of computer graphics?
 - It provides tools for producing pictures of not only real word objects but also of abstract, synthetic objects such as mathematical surface in 4D.
-- It has the ability to show animations(moving pictures)
+- It has the ability to show animations(moving pictures).
+- Computer graphics provides a tool called **motion dynamics**/
