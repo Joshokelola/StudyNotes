@@ -51,3 +51,7 @@ Interactive Computer graphics consists of the following:
 - **Tv monitor**: this helps us to view the display and it makes use of cathode ray tubes
 - **Display controller**: it acts as an interface between memory buffer and TV monitor. The main function of this is to pass the contents of the frame buffer to the monitor.
 
+**APPLICATIONS OF COMPUTER GRAPHICS**
+- Computer aided design/drafting.
+- Presentation graphics
+- En
