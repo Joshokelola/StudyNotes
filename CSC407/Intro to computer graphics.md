@@ -20,4 +20,4 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - It has the ability to show animations(moving pictures).
 - Computer graphics provides a tool called **motion dynamics**. Using this tool the user can move and tumble objects with respect to a stationary observer.
 - Computer graphics also provides a tool called **update dynamics**, this tool makes it possible to change the shape, colour or other properties of an object.
-- Computer
+- Computer graphics can provide audio
