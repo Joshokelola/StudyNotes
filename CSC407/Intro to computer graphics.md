@@ -46,3 +46,4 @@ Interactive Computer graphics consists of the following:
 
 ![[Pasted image 20241117144821.png]]
 **Digital memory buffer (Frame Buffer):** this is the place where images or pictures are stored as an array (matrix of 0 and 1), 0 represents **darkness** and 1 represents **images or pictures**
+- Frame buffer is the **video RAM(v-ram)** that is used to hold the image displayed on the screen. 
