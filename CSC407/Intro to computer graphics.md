@@ -34,3 +34,4 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - **Cartoons and artwork**
 - **Graphical user interface**: this is used to help users to utilise the software more easily and efficiently.
 # What are some characteristics of computer graphics?
+- 
