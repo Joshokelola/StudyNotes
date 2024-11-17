@@ -4,3 +4,4 @@ This simply refers to any **pictorial representation** created or manipulated **
 **What is a pixel?**
 A pixel is the smallest addressable screen element, it is the smallest piece of the display screen we can control.
 
+# Manual drafting vs 
