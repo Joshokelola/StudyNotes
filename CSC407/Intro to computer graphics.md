@@ -79,6 +79,6 @@ In Computer graphics, a computer is used to create a picture. On the other hand 
 - Improving picture quality
 - Machine perception of information as used in robotics
 
-
 > [!NOTE] **NOTE**:
-> To apply image processing methods, we need to first digitise a photograph and other pictures into a
+> To apply image processing methods, we need to first digitise a photograph and other pictures into an image file, thereafter digital methods can be applied to modify picture parts.
+
