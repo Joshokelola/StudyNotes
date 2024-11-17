@@ -81,17 +81,32 @@ Summarise it concisely [[User Interface Design]]
 
 ##### assistant
 Based on your notes, user interface design focuses on the look and feel of websites, computers, etc. with a focus on user experience and interaction. The main goal is to make the user's interaction as simple and efficient as possible. Some general principles to adhere to for good user design include:
-
 * Access: A good system is usable without help or instruction by a user with general knowledge of applications but no experience with the specific system/application.
 * Efficacy: Good systems don't interfere with or disturb the efficient use by a skilled user with reasonable experience with the system.
 * Progression: Good systems are forward thinking and incorporate new features as the user gains experience with the system.
 * Support: Good systems support the work that users are trying to accomplish, making it easier, simpler, faster, or more fun.
 * Context: Good systems are adapted to the conditions and environment of the operational context within which they're deployed.
-
 Other important principles include:
-
 * Visibility Principle: Giving the user what they need to accomplish a given task without distracting the user with irrelevant information.
 * Feedback Principle: Keep users informed of actions, changes of state, and errors using clear and easy-to-understand language.
 * Reuse Principle: Reduce the need for users to rethink and remember by reusing internal/external components, thereby maintaining consistency with purpose rather than merely arbitrary consistency.
 * Tolerance Principle: Tolerate errors where possible; errors shouldn't totally cripple the application. Reduce the cost of mistakes by allowing undoing and redoing.
 * Simplicity Principle: Make simple, common tasks easy to do, communicating straightforwardly in the user's own language and providing good shortcuts that are meaningfully related to longer procedures.
+
+##### system
+```sc-context
+CSC407/Intro to computer graphics.md
+```
+
+##### user
+Based on [[Intro to computer graphics]] , what are the differences between manual drafting and computer graphics?
+
+##### assistant
+Based on your notes, the differences between manual drafting and computer graphics are:
+* Manual drafting is considerably faster because the tools are readily available. It can be completed in a predictable amount of time, unlike computer graphics, which takes a considerable amount of load time, such as for writing the program and debugging it.
+
+##### user
+summarise
+
+##### assistant
+Based on your notes, the main difference between manual drafting and computer graphics is that manual drafting is considerably faster because the tools are readily available. It can be completed in a predictable amount of time, unlike computer graphics, which takes a considerable amount of load time, such as for writing the program and debugging it.

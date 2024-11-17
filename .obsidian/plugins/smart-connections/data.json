@@ -20,7 +20,7 @@
   "version": "2.2.85",
   "google_gemini": {
     "api_key": "AIzaSyCFO_O0Yh3pHM07JBjSklqfid04qnZHQVU",
-    "model_name": "gemini-1.0-pro",
+    "model_name": "gemini-pro",
     "description": "The best model for scaling across a wide range of tasks",
     "type": "API",
     "api_key_header": "none",
@@ -32,11 +32,11 @@
     "fetch_models": true,
     "default_model": "gemini-1.5-pro",
     "signup_url": "https://ai.google.dev/",
-    "key": "gemini-1.0-pro",
+    "key": "gemini-pro",
     "max_input_tokens": 30720,
     "multimodal": false,
     "raw": {
-      "name": "models/gemini-1.0-pro",
+      "name": "models/gemini-pro",
       "version": "001",
       "displayName": "Gemini 1.0 Pro",
       "description": "The best model for scaling across a wide range of tasks",
