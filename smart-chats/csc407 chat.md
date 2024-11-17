@@ -110,3 +110,14 @@ summarise
 
 ##### assistant
 Based on your notes, the main difference between manual drafting and computer graphics is that manual drafting is considerably faster because the tools are readily available. It can be completed in a predictable amount of time, unlike computer graphics, which takes a considerable amount of load time, such as for writing the program and debugging it.
+
+##### system
+```sc-context
+CSC407/Intro to computer graphics.md
+```
+
+##### user
+Based on [[Intro to computer graphics]] , what are the differences between manual drafting and computer graphics?
+
+##### assistant
+Based on your notes, the main difference between manual drafting and computer graphics is that manual drafting is considerably faster because the tools are readily available. It can be completed in a predictable amount of time, unlike computer graphics, which takes a considerable amount of load time, such as for writing the program and debugging it.
