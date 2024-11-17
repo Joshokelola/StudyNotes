@@ -59,3 +59,6 @@ Interactive Computer graphics consists of the following:
 - Computer art
 - Medical application
 - Simulation and virtual reality.
+
+> [!Note:] Title
+> Contents
