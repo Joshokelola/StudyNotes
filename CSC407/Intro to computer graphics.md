@@ -39,4 +39,9 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - The production value of graphic packages is high and expensive hardware is also needed in most situations to use it.
 
 **Components of computer graphics**:
-Interactive Computer graphics consists of the 
+Interactive Computer graphics consists of the following:
+- Digital memory buffer
+- TV monitor
+- Display controller.
+
+
