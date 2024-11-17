@@ -69,4 +69,6 @@ Primary goals include:
 - Tracking an object through image sequence
 - Mapping a scene to a 3D model of the scene and the model can be used by a robot.
 **Major applications of COMPUTER VISION:**
-- Creation of visual effects 
+- Creation of visual effects in cinema and broadcast, camera tracking is made use of here.
+- Used in medicine, military, security, robotics etc.
+- 
