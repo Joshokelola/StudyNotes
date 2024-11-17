@@ -35,4 +35,5 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - **Graphical user interface**: this is used to help users to utilise the software more easily and efficiently.
 # What are some characteristics of computer graphics?
 - The **interactive nature and the preview capability of computer processing**: one can create a drawing without the need for physical drawing instruments without a lot of effort. You can easily view in different angles and change to different styles easily and get a satisfactory result.
-- It's user friendly making its operation an easy task. Many computer based packages have made it very easy for people with some basic computer training to make us
+- It's user friendly making its operation an easy task. Many computer based packages have made it very easy for people with some basic computer training to make use these packages to produce complicated drawings.
+- The production value of graphic packages is high a
