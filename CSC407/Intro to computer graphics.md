@@ -54,4 +54,8 @@ Interactive Computer graphics consists of the following:
 **APPLICATIONS OF COMPUTER GRAPHICS**
 - Computer aided design/drafting.
 - Presentation graphics
-- En
+- Entertainment
+- Computer aided learning
+- Computer art
+- Medical application
+- Simulation and virtual reality.
