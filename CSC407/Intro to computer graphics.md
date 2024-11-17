@@ -32,5 +32,5 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - **Scientific graphics**: this includes things like x-y plots, curve fitting, contour plots etc.
 - **Scaled drawings**: architectural representation, drawings of building, bridges and machines.
 - **Cartoons and artwork**
-- **GUIs**: this is used to help users to utilise the software more easily and e
+- **Graphical user interface**: this is used to help users to utilise the software more easily and efficiently.
 # What are some characteristics of computer graphics?
