@@ -31,5 +31,6 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - **Business graphics/Presentation graphics**: this refers to graphics such as bar-charts, pie charts etc. used to present quantitative information to inform and convince the audience.
 - **Scientific graphics**: this includes things like x-y plots, curve fitting, contour plots etc.
 - **Scaled drawings**: architectural representation, drawings of building, bridges and machines.
-- **Cartoons**
+- **Cartoons and artwork**
+- **GUIs**: this is used to help users to utilise the software more easily and e
 # What are some characteristics of computer graphics?
