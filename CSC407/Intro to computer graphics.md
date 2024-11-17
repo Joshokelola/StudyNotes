@@ -5,4 +5,4 @@ This simply refers to any **pictorial representation** created or manipulated **
 A pixel is the smallest addressable screen element, it is the smallest piece of the display screen we can control.
 
 # What are the differences between Manual drafting and Computer Graphics?
-- Manual drafting is considerably faster because the tools are readi
+- Manual drafting is considerably faster because the tools are readily available. It can be completed in a predictable amount of time **unlike** 
