@@ -22,3 +22,6 @@ Looking at ITP401, tell me how HTTP is a stateless protocol
 
 ##### assistant
 *An error occurred. See console logs for details.*
+
+##### user
+Based on my note in ITP401, how is http a stateless protocol?
