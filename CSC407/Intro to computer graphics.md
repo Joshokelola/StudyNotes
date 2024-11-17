@@ -48,6 +48,6 @@ Interactive Computer graphics consists of the following:
 **Digital memory buffer (Frame Buffer):** this is the place where images or pictures are stored as an array (matrix of 0 and 1), 0 represents **darkness** and 1 represents **images or pictures**
 - Frame buffer is the **video RAM(v-ram)** that is used to hold the image displayed on the screen. The amount of memory that is required to hold the image depends on the resolution of the screen image and colour depth used per pixel.
 ![[Pasted image 20241117145524.png]]
-- Tv monitor: this helps us to view the display and it makes use of cathode ray tubes
-- Display controller: it acts as an interface between memory buffer and TV monitor. The main function
+- **Tv monitor**: this helps us to view the display and it makes use of cathode ray tubes
+- **Display controller**: it acts as an interface between memory buffer and TV monitor. The main function of this is to pass the contents of the frame buffer to the monitor.
 
