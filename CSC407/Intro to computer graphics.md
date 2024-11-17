@@ -80,5 +80,5 @@ In Computer graphics, a computer is used to create a picture. On the other hand 
 - Machine perception of information as used in robotics
 
 
-> [!NOTE] Title
-> Contents
+> [!NOTE] **NOTE**:
+> To apply image processing methods, we need to first digitise a photograph and other pictures into a
