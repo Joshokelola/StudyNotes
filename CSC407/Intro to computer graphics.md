@@ -75,4 +75,10 @@ Primary goals include:
 # What is the difference between image processing and computer graphics?
 In Computer graphics, a computer is used to create a picture. On the other hand image processing applies techniques to modify or interpret existing pictures.
 
-**APPLICATIONS OF IMAGE PROC**
+**APPLICATIONS OF IMAGE PROCESSING**
+- Improving picture quality
+- Machine perception of information as used in robotics
+
+
+> [!NOTE] Title
+> Contents
