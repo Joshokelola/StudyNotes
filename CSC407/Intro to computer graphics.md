@@ -82,4 +82,10 @@ In Computer graphics, a computer is used to create a picture. On the other hand 
 > [!NOTE] **NOTE**:
 > To apply image processing methods, we need to first digitise a photograph and other pictures into an image file, thereafter digital methods can be applied to modify picture parts.
 
-**Interactive image processing:** this is a technique whereby human input is applied via graphical interaction techniques and menus assist to regulate various subprocesses while transformation of images are displayed on screen.
+**Interactive image processing:** this is a technique whereby human input is applied via graphical interaction techniques and menus assist to regulate various sub-processes while transformation of images are displayed on screen.
+**APPLICATIONS:**
+- Medical image processing(CAT scans)
+- Face detection
+- Microscopic image processing
+- Pattern detection.
+
