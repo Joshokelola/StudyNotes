@@ -71,4 +71,5 @@ Primary goals include:
 **Major applications of COMPUTER VISION:**
 - Creation of visual effects in cinema and broadcast, camera tracking is made use of here.
 - Used in medicine, military, security, robotics etc.
-- 
+
+# What is the difference between image processing and c?
