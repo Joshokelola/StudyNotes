@@ -20,11 +20,11 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 - It has the ability to show animations(moving pictures).
 - Computer graphics provides a tool called **motion dynamics**. Using this tool the user can move and tumble objects with respect to a stationary observer.
 - Computer graphics also provides a tool called **update dynamics**, this tool makes it possible to change the shape, colour or other properties of an object.
-- Computer graphics can provide audio feedback alongside graphical feedback to make a simulated environment feel more realistic.
+- Computer graphics can provide audio feedback alongside graphical feedback to make a **simulated environment feel more realistic**.
 
 # Classification Of Computer Graphics 
 **ACCORDING TO APPLICATION**:
-- **Passive computer graphics(Off-line)**: an example of this is static website, the user has no control of over the contents displayed on the computer.
+- **Passive computer graphics(Off-line)**: an example of this is static website, the user has no control over the contents displayed on the computer.
 - **Interactive computer graphics (On-line)**: displays are typically controlled by mouse, trackball, joystick etc. This is referred to as interactive because the user can interact with the machine as per his requirements. Examples include video games, cartoons, special effects in movies.
 
 **OTHER CLASSIFICATIONS**:
