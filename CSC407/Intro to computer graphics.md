@@ -9,4 +9,6 @@ A pixel is the smallest addressable screen element, it is the smallest piece of 
 
 - Correction in manual drafting **takes more time** and usually the result looks rough, many at times you'd need a fresh paper. With computer graphics, corrections are **faster** and the result will look more original.
 
-- Special effects like colour and shading take more time/effort in manual drafting and requires specialists. With computer graphics, these enhancements are built into the software/hardware which results in lesser time
+- **Special effects** like colour and shading **take more time/effort** in manual drafting and requires **specialists**. With computer graphics, these enhancements are **built into the software/hardware** which results in **lesser time and lesser effort**.
+
+- 
