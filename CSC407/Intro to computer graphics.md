@@ -44,4 +44,3 @@ Interactive Computer graphics consists of the following:
 - TV monitor
 - Display controller.
 
-
