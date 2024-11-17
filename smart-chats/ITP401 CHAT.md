@@ -78,3 +78,20 @@ ITP 401/User Interface Design.md
 
 ##### user
 Summarise it concisely [[User Interface Design]]
+
+##### assistant
+Based on your notes, user interface design focuses on the look and feel of websites, computers, etc. with a focus on user experience and interaction. The main goal is to make the user's interaction as simple and efficient as possible. Some general principles to adhere to for good user design include:
+
+* Access: A good system is usable without help or instruction by a user with general knowledge of applications but no experience with the specific system/application.
+* Efficacy: Good systems don't interfere with or disturb the efficient use by a skilled user with reasonable experience with the system.
+* Progression: Good systems are forward thinking and incorporate new features as the user gains experience with the system.
+* Support: Good systems support the work that users are trying to accomplish, making it easier, simpler, faster, or more fun.
+* Context: Good systems are adapted to the conditions and environment of the operational context within which they're deployed.
+
+Other important principles include:
+
+* Visibility Principle: Giving the user what they need to accomplish a given task without distracting the user with irrelevant information.
+* Feedback Principle: Keep users informed of actions, changes of state, and errors using clear and easy-to-understand language.
+* Reuse Principle: Reduce the need for users to rethink and remember by reusing internal/external components, thereby maintaining consistency with purpose rather than merely arbitrary consistency.
+* Tolerance Principle: Tolerate errors where possible; errors shouldn't totally cripple the application. Reduce the cost of mistakes by allowing undoing and redoing.
+* Simplicity Principle: Make simple, common tasks easy to do, communicating straightforwardly in the user's own language and providing good shortcuts that are meaningfully related to longer procedures.
