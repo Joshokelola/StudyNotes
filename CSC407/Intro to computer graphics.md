@@ -44,3 +44,5 @@ Interactive Computer graphics consists of the following:
 - TV monitor
 - Display controller.
 
+![[Pasted image 20241117144821.png]]
+**Digital memo**
